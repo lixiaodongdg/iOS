@@ -1,4 +1,8 @@
 # iOS
 
-![imgae](https://github.com/lixiaodongdg/iOS/tree/main/Gif/ios.gif)
+![imgae](https://github.com/lixiaodongdg/iOS/blob/main/Gif/ios.gif)
+
+
+
+
 
